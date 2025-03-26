@@ -12,7 +12,7 @@ LICENSE
     spec.summary                  = 'PaySuite Mobile SDK'
     spec.vendored_frameworks      = 'mobilesdk.xcframework'
     spec.libraries                = 'c++'
-    spec.ios.deployment_target    = '18.2'
+    spec.ios.deployment_target    = '17.5'
                 
                 
                 
